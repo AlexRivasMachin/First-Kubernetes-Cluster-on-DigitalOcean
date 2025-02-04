@@ -1,5 +1,8 @@
 # 🌊 **Creating Your First Kubernetes Cluster on DigitalOcean with Terraform** 🚀
 
+![kubernetsDigitalOcean.jpg](./kubernetesDigitalOcean.jpeg)
+
+
 Welcome to the world of Kubernetes and Terraform! In this guide, we'll walk you through the process of creating your very first Kubernetes cluster on **DigitalOcean** using **Terraform**. Whether you're a seasoned developer or just starting out, this guide will help you get up and running in no time.
 
 ## 🎁 **Why DigitalOcean?**
