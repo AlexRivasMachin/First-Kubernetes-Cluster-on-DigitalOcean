@@ -177,6 +177,9 @@ If you have any questions or run into issues, feel free to reach out to the [Dig
 
 Enjoy your Kubernetes journey! 🌊
 
+#### Connect to Your Cluster 
+> If you want to connect directly to your kubernetes cluster, you can use the guide at [access.md](access.md)
+
 ### Socials
 + GitHub: [github.com/alexrivasmachin](github.com/alexrivasmachin)
 + LinkedIn: [www.linkedin.com/in/alex-rivas-machin](www.linkedin.com/in/alex-rivas-machin)
